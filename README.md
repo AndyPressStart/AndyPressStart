@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyPressStart
-- 👀I work at Press Start Capital, a pre-seed venture capital firm and accelerator dedicated to empowering early-stage Web3 startups. Our mission is to help builders take their ideas from concept to reality by providing first checks, mentorship, and access to a robust network of investors and partners. 
+- 👀I work at Press Start Capital, a pre-seed venture capital firm and pre-accelerator dedicated to empowering early-stage Web3 startups. Our mission is to help builders take their ideas from concept to reality by providing first checks, mentorship, and access to a robust network of investors and partners. 
 
 
 <!---
